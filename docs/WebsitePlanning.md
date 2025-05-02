@@ -7,7 +7,7 @@ Here are the pages that I want to make
 
 ## Home Page
 Details about the home page  
-![](./images/cat.jpg)
+![](./images/BasicHomePage.png)
 
 ## Restaurant Page
 
