@@ -6,7 +6,7 @@ Here are the pages that I want to make
 * Confirmation
 
 ## Home Page
-Details about the home page  
+Maryland Based Food Delivery
 ![](./images/BasicHomePage.png)
 
 ## Restaurant Page
