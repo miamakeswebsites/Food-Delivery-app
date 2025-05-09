@@ -13,7 +13,7 @@ PASSWORD:
 ADDRESS:
 
 
-## chinese inspired dishes
+### chinese inspired dishes
 sweet and sour chicken $14.50 
 (smaller font: white rice, assorted veggies, french fries)
 spicy noodles $15
@@ -21,7 +21,7 @@ spicy noodles $15
 fried green beans $8 
 (smaller font: white rice)
 
-## soul food
+### soul food
 fried chicken $14.50
 (smaller font: white rice, assorted veggies, french fries)
 turkey plate $15
@@ -29,7 +29,7 @@ turkey plate $15
 vegan sides $8
 [smaller font: white rice, assorted veggies, french fries, mac and cheese smaller font (+1.50)]
 
-## dessert
+### dessert
 banana pudding $7.50
 red velvet cake $7.50
 shaved ice $5.75
@@ -37,7 +37,7 @@ shaved ice $5.75
 ## Checkout
 see your cart button ( shaped like a take out bag to be cute , in the future id want it to smile or steam up when you hover your mouse over it )
 
-## your order
+### your order
 QUESTION: how will i code it to show peoples orders oh snap haha
 
 EX: spicy noodles $14.50 ( ordered:1)
@@ -45,9 +45,9 @@ EX: spicy noodles $14.50 ( ordered:1)
    fried green beans $8 (ordered:1)
      (smaller font: w/ white rice)
    banana pudding $7.50 (ordered:1)
-# promo code or coupon 
+### promo code or coupon 
 
-  ## order amount QUESTION: HOW TO ADD SOMETHING TO CALCULATE ORDERS?
+### order amount QUESTION: HOW TO ADD SOMETHING TO CALCULATE ORDERS?
 EX: $30.00
 
 ## Confirmation
@@ -56,9 +56,10 @@ EX: spicy noodles $14.50 ( ordered:1)
    fried green beans $8 (ordered:1)
      (smaller font: w/ white rice)
    banana pudding $7.50 (ordered:1)
-   ## estimate wait time 
 
-   ## location of pickup/ delivery ?
+### estimate wait time 
+
+### location of pickup/ delivery ?
 
 CONFIRM BUTTON : 
 
